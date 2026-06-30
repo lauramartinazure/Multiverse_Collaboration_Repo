@@ -1,2 +1,3 @@
 # Multiverse_Collaboration_Repo
-Repo for collaboration session on 30th June.
+Repo for collabroation session 
+Intentionally create a conflict in the repo
