@@ -1,2 +1,2 @@
 # Multiverse_Collaboration_Repo
-Repo for collabroation session 
+Repo for collaboration session on 30th June.
